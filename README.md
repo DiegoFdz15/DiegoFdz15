@@ -20,4 +20,4 @@
 </li>
 </ul>
 
-![](https://hit.yhype.me/github/profile?user_id=76272091)
+![](https://komarev.com/ghpvc/?username=DiegoFdz15&color=blue)
