@@ -1,7 +1,7 @@
 <h1  align="center">About Me</h1>
 <p  align="center">
 <a  href="https://pirateweb0.github.io/"><img  src="https://img.shields.io/badge/WEBSITE-gray?style=for-the-badge&logo=About.me"  alt="Pirateweb"  /></a>&nbsp;
-<a  href="https://www.instagram.com/pirate.web_/"><img  src="https://img.shields.io/badge/INSTAGRAM-white?style=for-the-badge&logo=instagram"  alt="Instagram"  /></a>&nbsp;
+<a  href="https://www.instagram.com/diego.fdz2/"><img  src="https://img.shields.io/badge/INSTAGRAM-white?style=for-the-badge&logo=instagram"  alt="Instagram"  /></a>&nbsp;
 <a  href="https://www.linkedin.com/in/diego-fernandez-64a062282/"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn"  /></a>&nbsp;
 
 <h2>Featured projects </h2>
